@@ -2,7 +2,13 @@
 backend:
   name: git-gateway
   branch: main
+  
 media_folder: static/img
+media_library:
+  name: uploadcare
+  config:
+    publicKey: bde7ea359e79aa487501
+    crop: "3:2, 900:400, 1:1"
 
 collections:
   - name: 'main'
