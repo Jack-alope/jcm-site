@@ -2,7 +2,7 @@
 backend:
   name: git-gateway
   branch: main
-  media_folder: static/img
+media_folder: static/img
 
 collections:
   - name: 'main'
@@ -13,7 +13,7 @@ collections:
       preview: true
     fields:
       - { label: 'Body', name: 'body', widget: 'markdown'}
-      
+
   - name: 'guide'
     label: 'Guide'
     folder: 'content/guide'
