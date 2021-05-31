@@ -5,6 +5,15 @@ backend:
   media_folder: static/img
 
 collections:
+  - name: 'main'
+    label: 'Main'
+    folder: 'content'
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Body', name: 'body', widget: 'markdown'}
+      
   - name: 'guide'
     label: 'Guide'
     folder: 'content/guide'
