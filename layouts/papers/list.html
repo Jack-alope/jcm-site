@@ -1,8 +1,9 @@
 {{ define "main" }}
-<div class="grid lg:grid-cols-3 md:grid-cols-2 gap-4 text-gray-500 mx-auto px-4 py-1">
+<div class="text-gray-500 mx-auto py-1 px-10 lg:px-20 xl:px-40">
 {{ range .Pages.ByDate }}
-    <div class="py-7">
-        <a class="hover:text-blue-600" href="{{ .Params.link }}">{{.Title}}</a>
+    <div class="py-7 my-7 shadow px-20 rounded-lg">
+        <div class="font-mono text-xs">{{ .Date.Format "2006-01-02"}}</div>
+        <a class="font-serif hover:text-blue-600 text-2xl underline" href="{{ .Params.link }}">{{.Title}}</a>
         {{ .Content }}
     </div>
 {{ end }}
