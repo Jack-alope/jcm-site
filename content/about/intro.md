@@ -1,7 +1,6 @@
 ---
-title: Intro
+title: Welcome
 date: 1
-draft: true
 ---
 
-This here is a brief into about something. **This is bold.** *This is italics.* `and this is code.`
+I am an organized, dedicated, extroverted student who enjoys interacting with others in an environment where I can share something with them

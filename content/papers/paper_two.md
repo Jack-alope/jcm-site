@@ -1,6 +1,7 @@
 ---
-title: A paper with this title. 
+title: Translating Gender in Euripides’s Medea 
 link: ""
+date: 2021-01-02
 ---
 
-This is a more in depth summary of this paper. 
+A paper looking into the gender dynamics of Euripides’ Medea, especially in regard to the titular character and her place as a woman in a patriarchal world. 

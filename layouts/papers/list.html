@@ -3,7 +3,7 @@
 {{ range .Pages.ByDate }}
     <div class="py-7 my-7 shadow px-20 rounded-lg">
         <div class="font-mono text-xs">{{ .Date.Format "2006-01-02"}}</div>
-        <a class="font-serif hover:text-blue-600 text-2xl underline" href="{{ .Params.link }}">{{.Title}}</a>
+        <p class="font-serif text-xl underline">{{.Title}}</p>
         {{ .Content }}
     </div>
 {{ end }}

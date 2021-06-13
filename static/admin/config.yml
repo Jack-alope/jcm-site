@@ -39,4 +39,5 @@ collections:
       preview: true
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Date', name: 'date', widget: 'date' }
       - { label: 'Body', name: 'body', widget: 'markdown'}

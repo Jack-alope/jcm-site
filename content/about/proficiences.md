@@ -3,4 +3,4 @@ title: Proficiencies
 date: 3
 ---
 
-This here is a brief into about something. **This is bold.** *This is italics.* `and this is code.`
+Languages: I am conversant in English, Hebrew, German, French, and Irish, with academic understanding of Latin and Greek

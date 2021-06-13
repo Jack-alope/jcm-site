@@ -3,4 +3,5 @@ title: Education
 date: 2
 ---
 
-This here is a brief into about something. **This is bold.** *This is italics.* `and this is code.`
+Associates of Arts, Bard High School Early College, 2018  
+Honours Bachelor of Arts in Classics, Trinity College Dublin, 2022
